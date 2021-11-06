@@ -1,3 +1,7 @@
+Brock, A. et al. Large Scale GAN Training for High Fidelity Natural Image Synthesis. arXiv, 2018. URL https://arxiv.org/abs/1809.11096.
+
+------------------------------------------------------------
+
 # BigGAN-PyTorch
 The author's officially unofficial PyTorch BigGAN implementation.
 
