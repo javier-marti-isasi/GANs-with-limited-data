@@ -1,4 +1,4 @@
-Wang, Y. et al. MineGAN: effective knowledge transfer from GANs to target domains with few images. arXiv, 2019. URL https://arxiv.org/abs/ 1912.05270.
+Wang, Y. et al. MineGAN: effective knowledge transfer from GANs to target domains with few images. arXiv, 2019. URL https://arxiv.org/abs/1912.05270.
 
 # MineGAN: effective knowledge transfer from  GANs to target domains with few images 
 # Abstract: 
