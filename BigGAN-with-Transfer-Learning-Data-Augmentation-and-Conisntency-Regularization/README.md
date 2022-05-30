@@ -1,3 +1,8 @@
+BigGAN training using 100 images with Transfer Learning and Data Augmentation
+https://youtu.be/Unf-7sDUdZ0
+
+------------------------------------------------------------
+
 Brock, A. et al. Large Scale GAN Training for High Fidelity Natural Image Synthesis. arXiv, 2018. URL https://arxiv.org/abs/1809.11096.
 
 Wang, Y. et al. MineGAN: effective knowledge transfer from GANs to target domains with few images. arXiv, 2019. URL https://arxiv.org/abs/1912.05270.
