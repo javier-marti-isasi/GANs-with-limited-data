@@ -1,5 +1,4 @@
-BigGAN training using 100 images with Transfer Learning and Data Augmentation
-https://youtu.be/Unf-7sDUdZ0
+BigGAN training using 100 images with Transfer Learning and Data Augmentation: https://youtu.be/Unf-7sDUdZ0
 
 ------------------------------------------------------------
 
