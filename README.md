@@ -1,4 +1,4 @@
-# GANs-with-limited-data
+# GANs with limited data
 BigGAN training with limited data using Transfer Learning, Data Augmentation and Conistency Regularization
 
 BigGAN training using 100 images with Transfer Learning and Data Augmentation: https://youtu.be/Unf-7sDUdZ0
